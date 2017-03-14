@@ -90,3 +90,22 @@ body{
   font-size: 35px;
   font-family: 'Kaushan Script', cursive;
 }
+
+.aboutme{
+  height: 400px;
+  /*background: green;*/
+}
+
+.aboutme h1{
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 45px;
+  margin-top: 70px;
+}
+
+.aboutme p {
+  width: 70%;
+  font-size: 24px;
+  text-align: center;
+  margin: auto;
+}
