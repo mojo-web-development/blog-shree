@@ -141,3 +141,12 @@ padding-top: 110px;
 padding-top: 80px;
 padding-left: 65px;
 }
+
+.circle a{
+  text-decoration: none;
+  color: black;
+}
+
+.circle a:hover{
+  color: rgb(100, 100, 100);
+}
