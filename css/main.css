@@ -125,8 +125,8 @@ body{
 }
 
 .topics{
-  background: rgb(178, 178, 178);
-  padding: 100px 0 60px 0;
+  /*background: rgb(178, 178, 178);*/
+  padding: 20px 0 40px 0;
 }
 
 .circle{
