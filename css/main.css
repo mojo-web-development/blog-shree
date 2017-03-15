@@ -9,6 +9,10 @@
     color: rgb(30, 30, 30);
 }
 
+.navbar-default .navbar-nav>li>a:hover{
+    color: rgb(100, 100, 100);
+}
+
 .navbar-default .navbar-brand {
     color: rgb(30, 30, 30);
 }
@@ -24,8 +28,10 @@
 }
 
 .navbar-brand{
-  font-size: 20px;
+  font-size: 30px;
+  font-family: 'Kaushan Script', cursive;
   color: rgb(30, 30, 30);
+  padding-top: 14px;
 }
 
 .main-pic{
@@ -39,6 +45,11 @@
 
 .my-nav-color{
   background: transparent;
+}
+
+.navbar{
+  font-family: 'PT Sans', sans-serif;
+  /*font-weight: bold;*/
 }
 
 body{
@@ -95,6 +106,7 @@ body{
   /*height: 400px;*/
   margin-bottom: 60px;
   /*background: green;*/
+  font-family: 'PT Sans', sans-serif;
 }
 
 .aboutme h1{
@@ -153,16 +165,18 @@ padding-left: 65px;
 
 footer{
   padding-top: 60px;
-  height: 400px;
   background: rgb(50,50,50);
   text-align: center;
   color: rgb(178, 178, 178);
   font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+  padding-bottom: 40px;
 }
 
 .my-logo{
-  font-size: 40px;
+  font-size: 60px;
   margin-bottom: 10px;
+  font-family: 'Kaushan Script', cursive;
 }
 
 .subscribe{
