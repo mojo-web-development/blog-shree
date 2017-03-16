@@ -7,6 +7,7 @@
 
 .navbar-default .navbar-nav>li>a {
     color: rgb(30, 30, 30);
+    text-shadow: 2px 2px 20px white;
 }
 
 .navbar-default .navbar-nav>li>a:hover{
@@ -28,6 +29,7 @@
 }
 
 .navbar-brand{
+  text-shadow: 2px 2px 20px white;
   font-size: 30px;
   font-family: 'Kaushan Script', cursive;
   color: rgb(30, 30, 30);
