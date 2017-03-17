@@ -25,7 +25,8 @@
 .homeDec-post{
   height: 300px;
   background: green;
-  margin: 1%;
+  margin: 16px auto 16px auto;
   width: 48%;
+  max-width: 400px;
   min-width: 299px;
 }
