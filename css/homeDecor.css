@@ -8,13 +8,12 @@
 }
 
 .blog-posts-area{
-  height: 3000px;
   width: 80%;
   background: rgb(242, 242, 242);
   margin: auto;
 }
 
-.blog-posts-area h1{
+.blog-posts-area-title{
   text-align: center;
   font-size: 60px;
   font-family: 'Kaushan Script', cursive;
@@ -22,8 +21,58 @@
   margin-bottom: 60px;
 }
 
-.blue{
-  background: blue;
-  height: 300px;
-  margin: 1% 4%;
+.blog-thumbnail{
+  background: white;
+  height: 590px;
+  margin: 2% 4%;
+  box-shadow: 0px 0px 5px rgb(200, 200, 200);
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.thumbnail-pic{
+  height: 143px;
+  right: 0;
+  top: 0;
+  left: 0;
+  background-image: url("https://images.unsplash.com/photo-1470274038469-958113db2384?dpr=2&auto=format&fit=crop&w=1500&h=2000&q=80&cs=tinysrgb&crop=");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.thumbnail-title{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 30px;
+  padding: 20px 20px 0 20px;
+}
+
+.thumbnail-description{
+  /*background: blue;*/
+  color: rgb(100, 100, 100);
+  font-family: 'PT Sans', sans-serif;
+  padding: 10px 20px 10px 20px;
+  font-size: 18px;
+}
+
+.thumbnail-footer{
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.thumbnail-button{
+  padding-top: 6px;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'PT Sans', sans-serif;
+  color: black;
+  height: 40px;
+  width: 120px;
+  margin: auto;
+  border: 2px solid rgb(100, 100, 100);
+  border-radius: 10px;
 }
