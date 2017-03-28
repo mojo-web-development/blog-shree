@@ -1,3 +1,7 @@
+*{
+  text-transform: lowercase;
+}
+
 
 .my-nav-center{
   /*width: 100%;*/
@@ -31,7 +35,8 @@
 .navbar-brand{
   text-shadow: 2px 2px 20px white;
   font-size: 30px;
-  font-family: 'Kaushan Script', cursive;
+  /*font-family: 'Kaushan Script', cursive;*/
+  font-family: 'Quicksand', sans-serif;
   color: rgb(30, 30, 30);
   padding-top: 14px;
 }
@@ -50,7 +55,8 @@
 }
 
 .navbar{
-  font-family: 'PT Sans', sans-serif;
+  /*font-family: 'PT Sans', sans-serif;*/
+  font-family: 'Quicksand', sans-serif;
   /*font-weight: bold;*/
 }
 
@@ -97,10 +103,11 @@ body{
 .showcase-quote{
   height: 150px;
   /*background: yellow;*/
-  margin-top: 20px;
+  margin-top: 70px;
   text-align: center;
   font-size: 35px;
-  font-family: 'Kaushan Script', cursive;
+  /*font-family: 'Kaushan Script', cursive;*/
+  font-family: 'Quicksand', sans-serif;
 }
 
 .aboutme{
@@ -109,12 +116,14 @@ body{
   /*height: 400px;*/
   margin-bottom: 60px;
   /*background: green;*/
-  font-family: 'PT Sans', sans-serif;
+  /*font-family: 'PT Sans', sans-serif;*/
+  font-family: 'Quicksand', sans-serif;
 }
 
 .aboutme h1{
   text-align: center;
-  font-family: 'Kaushan Script', cursive;
+  /*font-family: 'Kaushan Script', cursive;*/
+  font-family: 'Quicksand', sans-serif;
   font-size: 45px;
   margin-top: 70px;
 }
@@ -139,7 +148,8 @@ body{
   background: rgb(210, 210, 210);
   margin: 0 auto 40px auto;
   padding: 70px;
-  font-family: 'Kaushan Script', cursive;
+  /*font-family: 'Kaushan Script', cursive;*/
+  font-family: 'Quicksand', sans-serif;
   font-size: 50px;
   text-align: center;
 }
@@ -173,7 +183,8 @@ footer{
   text-align: center;
   color: rgb(178, 178, 178);
   font-size: 20px;
-  font-family: 'PT Sans', sans-serif;
+  /*font-family: 'PT Sans', sans-serif;*/
+  font-family: 'Quicksand', sans-serif;
   padding-bottom: 40px;
   margin-top: 0;
 }
@@ -181,7 +192,8 @@ footer{
 .my-logo{
   font-size: 60px;
   margin-bottom: 10px;
-  font-family: 'Kaushan Script', cursive;
+  /*font-family: 'Kaushan Script', cursive;*/
+  font-family: 'Quicksand', sans-serif;
 }
 
 .subscribe{
